@@ -1,2 +1,3 @@
 # hello-world
-Hi, This is TimeSavvi!
+Hi, this is TimeSavvi!
+We are creating an amazing repository!
